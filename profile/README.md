@@ -106,7 +106,8 @@
 ## 👥 팀원 정보
 | 이름   | GitHub                                       |
 | ------ | -------------------------------------------- |
-| 이규현 | [@leekyuhyun](https://github.com/leekyuhyun) |
-| 김선빈 | [@toran1678](https://github.com/toran1678)   |
-| 정현구 | [@lhjjhg](https://github.com/lhjjhg)         |
 | 김민한 | [@minari0v0](https://github.com/minari0v0) |
+| 김선빈 | [@toran1678](https://github.com/toran1678)   |
+| 이규현 | [@leekyuhyun](https://github.com/leekyuhyun) |
+| 정현구 | [@lhjjhg](https://github.com/lhjjhg)         |
+
