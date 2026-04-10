@@ -64,7 +64,7 @@
 * **Database:** <img src="https://img.shields.io/badge/Firebase Firestore-FFCA28?style=flat-square&logo=Firebase&logoColor=black"/>
 * **Authentication:** <img src="https://img.shields.io/badge/Firebase Auth-FFCA28?style=flat-square&logo=Firebase&logoColor=black"/>
 * **Media:** <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=Cloudinary&logoColor=white"/>
-* **AI Engine:** <img src="https://img.shields.io/badge/Google Gemini 2.0 Flash-4285F4?style=flat-square&logo=Google Gemini&logoColor=white"/>
+* **AI Engine:** <img src="https://img.shields.io/badge/Gemini-8E75FF?style=flat-square&logo=googlegemini&logoColor=white"/>
 
 ### 🔄 5.2. Data Flow
 
