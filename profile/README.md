@@ -173,11 +173,11 @@ journey
 
 ```mermaid
 graph LR
-    A[Raw Data<br>(한 달치 퀵 메모)] --> B[Express Server<br>데이터 전처리 및 필터링]
-    B --> C{System Prompt 결합}
-    C --> D[Gemini 2.0 Flash<br>추론 및 분석]
-    D --> E[JSON Output<br>점수, 요약, 키워드]
-    E --> F[Client<br>차트 렌더링 및 UI 출력]
+    A["Raw Data<br>(한 달치 퀵 메모)"] --> B["Express Server<br>데이터 전처리 및 필터링"]
+    B --> C{"System Prompt 결합"}
+    C --> D["Gemini 2.0 Flash<br>추론 및 분석"]
+    D --> E["JSON Output<br>점수, 요약, 키워드"]
+    E --> F["Client<br>차트 렌더링 및 UI 출력"]
     
     style C fill:#f9f,stroke:#333,stroke-width:2px
     style D fill:#8E75FF,stroke:#fff,stroke-width:2px,color:#fff
