@@ -157,7 +157,7 @@ journey
 
 | 영역 | 기술 스택 | 도입 배경 및 목적 |
 | :--- | :--- | :--- |
-| **Frontend** | <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/> <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=Vite&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=Tailwind CSS&logoColor=white"/> | 강력한 컴포넌트 재사용성 및 `Vite`를 통한 빠른 빌드 환경 구축. `Tailwind`를 활용한 신속하고 일관된 UI 렌더링. |
+| **Frontend** | <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/> <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=Vite&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=TailwindCSS&logoColor=white"/> | 강력한 컴포넌트 재사용성 및 `Vite`를 통한 빠른 빌드 환경 구축. `Tailwind`를 활용한 신속하고 일관된 UI 렌더링. |
 | **Backend** | <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/> | 비동기 처리 성능이 우수하며 프론트엔드와 동일한 언어(TypeScript) 사용으로 풀스택 개발 생산성 극대화. |
 | **Database** | <img src="https://img.shields.io/badge/Firestore-FFCA28?style=flat-square&logo=Firebase&logoColor=black"/> | NoSQL 기반의 유연한 데이터 구조와 빠른 읽기/쓰기 지원. |
 | **Auth** | <img src="https://img.shields.io/badge/Firebase Auth-FFCA28?style=flat-square&logo=Firebase&logoColor=black"/> | 교사/학부모 역할(Role)에 따른 안전한 회원가입 및 권한 제어(RBAC) 구현. |
