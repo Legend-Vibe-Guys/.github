@@ -1,12 +1,12 @@
 # 🏆 [KIT 바이브코딩 공모전] 👋 바이브가이즈
 
-Live Demo : https://vibe-guys.vercel.app
-
-API Docs : https://vibe-guys.onrender.com/docs
-
 > **아이케어 AI (iCare AI) - 키즈노트**
 > AI 기반 영유아 스마트 리포트 및 보육 행정 혁신 솔루션
 > *"교사에게는 여유를, 부모에게는 확신을."*
+
+Live Demo : https://vibe-guys.vercel.app
+
+API Docs : https://vibe-guys.onrender.com/docs
 
 ---
 
